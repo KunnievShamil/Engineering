@@ -1,4 +1,4 @@
-package com.example.engineering.ui.dashboard.adapter
+package com.example.engineering.ui.main.dashboard.adapter
 
 import android.view.LayoutInflater
 import android.view.View

@@ -1,4 +1,4 @@
-package com.example.engineering.ui.dashboard
+package com.example.engineering.ui.main.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.engineering.databinding.FragmentDashboardBinding
-import com.example.engineering.ui.dashboard.adapter.ProjectsAdapter
+import com.example.engineering.ui.main.dashboard.adapter.ProjectsAdapter
 
 class DashboardFragment : Fragment() {
 

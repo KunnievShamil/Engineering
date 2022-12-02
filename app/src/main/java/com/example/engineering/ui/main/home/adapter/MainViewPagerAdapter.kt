@@ -1,4 +1,4 @@
-package com.example.engineering.ui.home.adapter
+package com.example.engineering.ui.main.home.adapter
 
 import android.view.LayoutInflater
 import android.view.View

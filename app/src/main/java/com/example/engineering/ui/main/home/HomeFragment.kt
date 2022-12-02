@@ -1,4 +1,4 @@
-package com.example.engineering.ui.home
+package com.example.engineering.ui.main.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.viewpager2.widget.ViewPager2
 import com.example.engineering.databinding.FragmentHomeBinding
-import com.example.engineering.ui.home.adapter.MainViewPagerAdapter
+import com.example.engineering.ui.main.home.adapter.MainViewPagerAdapter
 import com.google.android.material.tabs.TabLayoutMediator
 
 class HomeFragment : Fragment() {

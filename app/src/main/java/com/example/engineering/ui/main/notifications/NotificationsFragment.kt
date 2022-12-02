@@ -1,4 +1,4 @@
-package com.example.engineering.ui.notifications
+package com.example.engineering.ui.main.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -27,7 +27,7 @@ class NotificationsFragment : Fragment() {
 
         _binding = FragmentNotificationsBinding.inflate(inflater, container, false)
         val root: View = binding.root
-        
+
         return root
     }
 
